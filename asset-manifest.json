@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salesforce_assessment/static/css/main.e249d94e.css",
+    "main.js": "/salesforce_assessment/static/js/main.5bd52a43.js",
+    "static/js/453.aad0c878.chunk.js": "/salesforce_assessment/static/js/453.aad0c878.chunk.js",
+    "index.html": "/salesforce_assessment/index.html",
+    "main.e249d94e.css.map": "/salesforce_assessment/static/css/main.e249d94e.css.map",
+    "main.5bd52a43.js.map": "/salesforce_assessment/static/js/main.5bd52a43.js.map",
+    "453.aad0c878.chunk.js.map": "/salesforce_assessment/static/js/453.aad0c878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e249d94e.css",
+    "static/js/main.5bd52a43.js"
+  ]
+}
