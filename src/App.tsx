@@ -60,7 +60,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <AssessmentProvider>
-        <Router>
+        <Router basename="/salesforce_assessment">
           <Box sx={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
             <Header />
             <Box component="main" sx={{ flexGrow: 1, py: 3 }}>
